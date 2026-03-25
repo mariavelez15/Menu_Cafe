@@ -1,0 +1,30 @@
+
+[
+  {
+    "title": "Inicio",
+    "link": "#inicio",
+    "subitems": []
+  },
+  {
+    "title": "Bebidas",
+    "link": "#bebidas",
+    "subitems": [
+      { "title": "Café Expreso", "link": "#expreso" },
+      { "title": "Café Latte", "link": "#latte" },
+      { "title": "Té", "link": "#te" }
+    ]
+  },
+  {
+    "title": "Postres",
+    "link": "#postres",
+    "subitems": [
+      { "title": "Tarta de manzana", "link": "#tarta" },
+      { "title": "Brownie", "link": "#brownie" }
+    ]
+  },
+  {
+    "title": "Contacto",
+    "link": "#contacto",
+    "subitems": []
+  }
+]
